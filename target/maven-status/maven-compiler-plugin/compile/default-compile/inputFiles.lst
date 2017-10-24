@@ -1,0 +1,15 @@
+/home/bridgeit/BMS/MVCLogin2/src/main/java/com/karan/Controller/LoginController.java
+/home/bridgeit/BMS/MVCLogin2/src/main/java/com/karan/Controller/GoogleLoginController.java
+/home/bridgeit/BMS/MVCLogin2/src/main/java/com/karan/Services/UserService.java
+/home/bridgeit/BMS/MVCLogin2/src/main/java/com/karan/Controller/RegistrationController.java
+/home/bridgeit/BMS/MVCLogin2/src/main/java/com/karan/logger/Loggerr.java
+/home/bridgeit/BMS/MVCLogin2/src/main/java/com/karan/DAO/UserMapperImpl.java
+/home/bridgeit/BMS/MVCLogin2/src/main/java/com/karan/Controller/ResetPasswordController.java
+/home/bridgeit/BMS/MVCLogin2/src/main/java/com/karan/SocialLogin/GsonUtils.java
+/home/bridgeit/BMS/MVCLogin2/src/main/java/com/karan/Model/Login.java
+/home/bridgeit/BMS/MVCLogin2/src/main/java/com/karan/Services/FormValidater.java
+/home/bridgeit/BMS/MVCLogin2/src/main/java/com/karan/DAO/UserMapper.java
+/home/bridgeit/BMS/MVCLogin2/src/main/java/com/karan/Model/Register.java
+/home/bridgeit/BMS/MVCLogin2/src/main/java/com/karan/Services/GenOtpService.java
+/home/bridgeit/BMS/MVCLogin2/src/main/java/com/karan/MyBatisUtility/MyBatisUtil.java
+/home/bridgeit/BMS/MVCLogin2/src/main/java/com/karan/SocialLogin/CallBack.java

@@ -1,0 +1,16 @@
+com/karan/MyBatisUtility/MyBatisUtil.class
+com/karan/SocialLogin/GsonUtils.class
+com/karan/DAO/UserMapper.class
+com/karan/Controller/RegistrationController.class
+com/karan/Services/GenOtpService$1.class
+com/karan/Controller/LoginController.class
+com/karan/DAO/UserMapperImpl.class
+com/karan/SocialLogin/CallBack.class
+com/karan/logger/Loggerr.class
+com/karan/Services/FormValidater.class
+com/karan/Services/GenOtpService.class
+com/karan/Controller/ResetPasswordController.class
+com/karan/Services/UserService.class
+com/karan/Model/Register.class
+com/karan/Model/Login.class
+com/karan/Controller/GoogleLoginController.class
